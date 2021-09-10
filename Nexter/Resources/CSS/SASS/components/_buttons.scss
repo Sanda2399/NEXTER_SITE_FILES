@@ -16,3 +16,11 @@
         background-color: $color-primary-dark;
     }
 }
+
+.home
+{
+    &__btn
+    {
+        grid-column: 1 / -1;
+    }
+}
